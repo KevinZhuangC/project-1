@@ -11,25 +11,32 @@ Research Q&A:
 
 Kevin:
 	
-  Which is the destination with the most rides?
+	Which is the destination with the most rides?
+
 	Uber Fares depend on different times(day/night/day of week), duration(long/short)? 
+
 	Any relation between public transportation line and uber pickup and dropoff location? 
 
 Zinny:
 
-  Price surge? In relation to time of the day, rush hour or weather
+	Price surge? In relation to time of the day, rush hour or weather
+
 	Do people avoid rides on sunny days? Do people avoid rides on sunny days? 
 
 Ricardo:
 
- Correlation between temperature and number of rides?
- Distribution of the rides by weekdays?
+
+	Correlation between temperature and number of rides?
+
+	Distribution of the rides by weekdays?
 
 Lina:
 
- What hours of the day are the peak requests? 
- Which kind of city area has the most uber request?
- What are the earnings of Uber drivers based on factors such as time of day, location, or type of vehicle used?
+	 What hours of the day are the peak requests?
+ 
+	 Which kind of city area has the most uber request?
+ 
+	 What are the earnings of Uber drivers based on factors such as time of day, location?
 
 
 ## Data Description: 
@@ -56,5 +63,7 @@ PPT:
 
 You will find a PowerPoint presentation of the project.
 
-Examples: 
+
+
+
 
