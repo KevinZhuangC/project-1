@@ -90,13 +90,11 @@ xxxx
 ![alt text](https://github.com/KevinZhuangC/project-1/blob/main/output_data/5_average_numberof_rides_by_weather.png)
 
 
-#### Number of rides by day of week
+#### Average fare amount by day of week
 
-The bar chart shows the frequency of Uber trips taken on different days of the week. On the horizontal axis (x axis), are the days of the week: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, and Sunday. The vertical axis (y-axis) represents the number of Uber trips made each day.
+The bar chart shows the Uber fares made on different days of the week. On the horizontal axis (x-axis), are the days of the week: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, and Sunday. The vertical axis (y-axis) represents the average Uber fares.
 
-With the results of the exercise, we see that the bars for Friday and Saturday are significantly higher than the other bars, indicating that people tend to use Uber more on weekends. This may be because people go out more, go to parties, social events or do leisure activities during these days.
-
-On the other hand, we note that the bar corresponding to Monday is the lowest of all, which suggests that it is the day of the week when Uber is used the least. This decrease could be due to the fact that many workers prefer to use means of transport, such as public transport or their own car, to go to their workplaces at the beginning of the week.
+With the results of the exercise, we see that the Sunday bars are the day higher than the other bars, which indicates that there is a greater demand for passengers and there are fewer drivers that day of the week.
 
 ![alt text](https://github.com/KevinZhuangC/project-1/blob/main/output_data/4_number_rides_by_day.png)
 
