@@ -40,13 +40,13 @@ Below you will find the results we obtained in our project:
 
 #### What hours of the day are the peak requests?
 
-xxxxxx
+We found that from 4 pm (16:00) to 11 pm (22:00) are the hours with the highest number of Uber ride requests. However, the time slot with the highest number is between 6 pm (18:00) and 8 pm (20:00)
 
 ![alt text](https://github.com/KevinZhuangC/project-1/blob/main/output_data/6_peak_requests.png)
 
 #### Zone with the highest requests in the request peak hour.
 
-xxxxxx
+The zone  with the most ride requests is Manhattan; however, Queens is the zone with the best fare per ride, close to $30 USD
 
 ![alt text](https://github.com/KevinZhuangC/project-1/blob/main/output_data/7_zone_highest_peak_request.png)
 
@@ -56,7 +56,7 @@ xxxxxx
 
 #### Top 5 zone with the best earning by ride
 
-xxxxx
+
 
 ![alt text](https://github.com/KevinZhuangC/project-1/blob/main/output_data/8_top5_zone_best_earning.png)
 
