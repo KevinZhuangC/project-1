@@ -46,7 +46,7 @@ We found that from 4 pm (16:00) to 11 pm (22:00) are the hours with the highest 
 
 #### Zone with the highest requests in the request peak hour.
 
-The zone  with the most ride requests is Manhattan; however, Queens is the zone with the best fare per ride, close to $30 USD
+The zone  with the most ride requests is Manhattan; however, Queens County is the zone with the best fare per ride, close to $40 USD
 
 ![alt text](https://github.com/KevinZhuangC/project-1/blob/main/output_data/7_zone_highest_peak_request.png)
 
@@ -64,11 +64,13 @@ The zone  with the most ride requests is Manhattan; however, Queens is the zone 
 
 #### Is there price surge in relation to time of the day, rush hour or weather?
 
-xxxxxx
+The fare per ride is higher on hazy days
 
 ![alt text](https://github.com/KevinZhuangC/project-1/blob/main/output_data/3_average_fare_amount_by_weather.png)
 
-xxxxxx
+#### People like sunny days more 
+
+We found that people request more Uber rides on sunny days.
 
 ![alt text](https://github.com/KevinZhuangC/project-1/blob/main/output_data/5_average_numberof_rides_by_weather.png)
 
@@ -84,9 +86,7 @@ However, as you can see, the graph shows a bell between rides and temperature, w
 
 ![alt text](https://github.com/KevinZhuangC/project-1/blob/main/output_data/1_correlation.png)
 
-#### Do people avoid rides on sunny days ?
 
-xxxx
 
 ![alt text](https://github.com/KevinZhuangC/project-1/blob/main/output_data/5_average_numberof_rides_by_weather.png)
 
