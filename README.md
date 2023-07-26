@@ -56,9 +56,10 @@ The zone  with the most ride requests is Manhattan; however, Queens is the zone 
 
 #### Top 5 zone with the best earning by ride
 
+![image](https://github.com/KevinZhuangC/project-1/assets/135395351/b106736e-4c36-4ec0-9577-78bacf6bb02c)
 
 
-![alt text](https://github.com/KevinZhuangC/project-1/blob/main/output_data/8_top5_zone_best_earning.png)
+
 
 
 #### Is there price surge in relation to time of the day, rush hour or weather?
