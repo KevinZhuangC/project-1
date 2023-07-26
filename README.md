@@ -96,7 +96,7 @@ The bar chart shows the Uber fares made on different days of the week. On the ho
 
 With the results of the exercise, we see that the Sunday bars are the day higher than the other bars, which indicates that there is a greater demand for passengers and there are fewer drivers that day of the week.
 
-![alt text](https://github.com/KevinZhuangC/project-1/blob/main/output_data/4_number_rides_by_day.png)
+![alt text](https://github.com/KevinZhuangC/project-1/blob/main/output_data/4_average_fare_by_day.png)
 
 ### Resource: 
 
